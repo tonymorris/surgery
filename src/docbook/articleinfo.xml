@@ -4,8 +4,10 @@
     "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 
 <articleinfo id="SurgicalHistoryInfo" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!--
   <xi:include href="articleinfo/author/tony.xml"/>
   <xi:include href="articleinfo/copyright.xml"/>
+  -->
   <title id="Title">Surgical History</title>
   <subtitle id="Subtitle">Tony Morris</subtitle>
 </articleinfo>
