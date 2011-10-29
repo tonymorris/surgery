@@ -10,4 +10,14 @@
   -->
   <title id="Title">Surgical History</title>
   <subtitle id="Subtitle">Tony Morris</subtitle>
+  <revhistory>
+    <revision>
+      <date>
+        29 October 2011
+      </date>
+      <revremark>
+        Initial revision
+      </revremark>
+    </revision>
+  </revhistory>
 </articleinfo>
