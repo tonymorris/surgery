@@ -10,5 +10,4 @@
   <xi:include href="articleinfo.xml"/>
   <xi:include href="introduction.xml"/>
   <xi:include href="PGPKEY.xml"/>
-  <xi:include href="CC-BY-SA.xml"/>
 </article>

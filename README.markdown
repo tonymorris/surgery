@@ -1,7 +1,7 @@
-Docbook Document
-================
+Surgery
+=======
 
-A template from which to create a Docbook document.
+A history of surgery.
 
 Setting up
 ==========
