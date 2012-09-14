@@ -1,4 +1,4 @@
-personal_ws-1.1 en 57 
+personal_ws-1.1 en 60 
 lunate
 ShareAlike
 Ssection
@@ -56,3 +56,6 @@ synching
 Arthroscopy
 CCPL
 waivable
+meralgia
+paraesthetica
+Donnelly
