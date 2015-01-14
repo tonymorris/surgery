@@ -1,14 +1,17 @@
 # idea
 
-.idea/workspace.xml
-.idea/ant.xml
+/.idea/workspace.xml
+/.idea/ant.xml
 
 # folders
 
-dist
-lib
+/dist
+/lib
 
 # spelling
-spellingerrors
+/spellingerrors
 
+# cabal
+/.cabal-sandbox
+cabal.sandbox.config
 
